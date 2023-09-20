@@ -1435,7 +1435,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f2f6f9;
+  background: #fff;
   min-height: 40px;
   margin-top: 85px;
 }
@@ -1467,7 +1467,7 @@ section {
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #3c6387;
+  color: #fff;
   content: "/";
 }
 
